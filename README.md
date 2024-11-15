@@ -91,4 +91,4 @@ I welcome contributions! If you'd like to contribute to this project, feel free 
 Reach out to me to collaborate,inquire or provide feedback!
 
 - **Email**: [drawhandler@gmail.com](mailto:drawhandler@gmail.com)
-- **GitHub**: [[your-github-profile](https://github.com/lee741)](https://github.com/lee741)
+- **GitHub**: [[https://github.com/lee741](https://github.com/lee741)]
