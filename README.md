@@ -32,7 +32,6 @@ The site is built to be responsive and visually appealing, making it easy for po
 - **HTML** - for structuring the website
 - **CSS** - for styling the layout and design
 - **JavaScript** - for interactive elements and animations
-- **[Node.js](https://nodejs.org/)** (optional) - for backend if applicable
 - **[Git](https://git-scm.com/)** and **[GitHub](https://github.com/)** for version control and code hosting
 
 ---
@@ -62,27 +61,6 @@ To run this project locally, follow these steps:
     ```bash
     cd your-portfolio
     ```
-
-3. (Optional) If you're using any package managers like `npm` or `yarn`, install the dependencies:
-
-    ```bash
-    npm install
-    ```
-
-    or
-
-    ```bash
-    yarn install
-    ```
-
-4. Run the website locally:
-
-    ```bash
-    npm start
-    ```
-
-    Your portfolio should now be running at `http://localhost:3000`.
-
 ---
 
 ## Usage
