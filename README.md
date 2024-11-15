@@ -1,6 +1,8 @@
 # My Portfolio Website
 
-Welcome to my personal portfolio! This project showcases my skills, experience, and the work I have done.
+Welcome to my personal portfolio! 
+
+This project showcases my skills and experience.
 
 ## Table of Contents
 
