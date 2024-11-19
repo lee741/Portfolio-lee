@@ -21,7 +21,7 @@ This project showcases my skills and experience.
 This is my personal portfolio website, designed to highlight my professional skills, projects, and achievements. It includes:
 
 - **About Me**: A brief introduction to who I am and my professional background.
-- **Projects**: A showcase of my previous work, including links and descriptions of each project.
+- **Activities**: A showcase of my previous work, including links and descriptions of each project.
 - **Skills**: A list of the technical skills I possess.
 - **Contact**: A form or contact information to reach out for potential collaborations, jobs, or inquiries.
 
@@ -44,7 +44,7 @@ The site is built to be responsive and visually appealing, making it easy for po
 - **Project Gallery**: A section that showcases my portfolio with images, descriptions, and links.
 - **Skills Display**: A section that highlights my technical skills using progress bars or charts.
 - **Contact Form**: A simple contact form or linked email address for inquiries.
-- **Interactive Animations**: Subtle animations to enhance the user experience.
+- **Interactive Chatbot**: Interactive dialogues to enhance the user experience.
 
 ---
 
