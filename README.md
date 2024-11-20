@@ -81,7 +81,6 @@ To run this project locally, follow these steps:
 
 I welcome contributions! If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request. Here's how you can help:
 
-- **Fix bugs**
 - **Add new features** (e.g., animations, new project examples, etc.)
 - **Improve design or UI/UX**
 - **Improve documentation**
